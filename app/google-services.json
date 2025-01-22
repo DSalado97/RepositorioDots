@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481230721532",
+    "project_id": "dotsbestscore",
+    "storage_bucket": "dotsbestscore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481230721532:android:573954ae50ccc7a842a279",
+        "android_client_info": {
+          "package_name": "com.example.golpea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481230721532-tbp55p9r1o6obb7njoesg40ecia17msv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCx1PLg9ydgRn6kECKxA8x0ALAitJVPX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481230721532-tbp55p9r1o6obb7njoesg40ecia17msv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
